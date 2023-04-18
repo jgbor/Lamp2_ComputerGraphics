@@ -1,2 +1,5 @@
 # Lamp2_ComputerGraphics
-Thrid Graphics homework
+
+Third Graphics homework, spinning cool lamp
+
+University, spring 2022
